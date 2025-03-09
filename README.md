@@ -22,11 +22,14 @@ Junyi Wu, [Zhiteng Li](https://zhitengli.github.io), [Zheng Hui](https://zheng22
 
 ## 🔗 Contents
 
-- [ ] [Performance and Efficiency](#performance)
+- [ ] [Performance and Efficiency](#performance-and-efficiency)
 - [ ] [Results](#-results)
 - [ ] [Citation](#citation)
 - [ ] [Acknowledgements](#-acknowledgements)
-## Performance and Efficiency
+- [ ] 
+## ✨ Performance and Efficiency
+<a id="performance-and-efficiency"></a>
+
 ## 🔎 Results
 ## Citation
 
