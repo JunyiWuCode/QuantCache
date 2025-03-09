@@ -10,7 +10,7 @@ Junyi Wu, [Zhiteng Li](https://zhitengli.github.io), [Zheng Hui](https://zheng22
 
 #### 🔥🔥🔥 News
 
-- **2024-10-03:** This repo is released.
+- **2025-03-09:** This repo is released.
 
 ---
 
