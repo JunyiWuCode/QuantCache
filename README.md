@@ -26,7 +26,7 @@ Junyi Wu, [Zhiteng Li](https://zhitengli.github.io), [Zheng Hui](https://zheng22
 - [ ] [Results](#-results)
 - [ ] [Citation](#citation)
 - [ ] [Acknowledgements](#-acknowledgements)
-- [ ] 
+
 ## ✨ Performance and Efficiency
 <a id="performance-and-efficiency"></a>
 
