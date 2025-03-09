@@ -42,6 +42,5 @@ If you find the code helpful in your research or work, please cite the following
 ## 💡 Acknowledgements
 
 This work is released under the Apache 2.0 license.
-The codes are based on [SVD-LLM](https://github.com/AIoT-MLSys-Lab/SVD-LLM). Please also follow their licenses. Thanks for their awesome works.
 
 
