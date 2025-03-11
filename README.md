@@ -92,7 +92,12 @@ Detailed results can be found in the paper.
 If you find the code helpful in your research or work, please cite the following paper.
 
 ```
-
+@article{wu2025quantcacheadaptiveimportanceguidedquantization,
+  title={QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation},
+  author={Wu, Junyi and Li, Zhiteng and Hui, Zheng and Zhang, Yulun and Kong, Linghe and Yang, Xiaokang},
+  journal={arXiv preprint arXiv:2503.06545},
+  year={2025}
+}
 ```
 
 ## 💡 Acknowledgements
