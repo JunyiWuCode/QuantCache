@@ -2,8 +2,8 @@
 
 Junyi Wu, [Zhiteng Li](https://zhitengli.github.io), [Zheng Hui](https://zheng222.github.io/), [Yulun Zhang](http://yulunzhang.com/), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/) and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ)
 
-[[arXiv](
-)] [[supplementary material]()]
+[[arXiv](https://arxiv.org/abs/2503.06545
+)] [[supplementary material](https://github.com/user-attachments/files/19150198/supplementary_material.pdf)]
 
 
 
