@@ -1,4 +1,6 @@
-# QuantCache：Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation
+<h2>
+QuantCache：Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation (ICCV 2025)
+</h2>
 
 Junyi Wu, [Zhiteng Li](https://zhitengli.github.io), [Zheng Hui](https://zheng222.github.io/), [Yulun Zhang](http://yulunzhang.com/), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/) and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ)
 
@@ -11,6 +13,7 @@ Junyi Wu, [Zhiteng Li](https://zhitengli.github.io), [Zheng Hui](https://zheng22
 #### 🔥🔥🔥 News
 
 - **2025-03-09:** This repo is released.
+-  **2025-06-26:** Congrats! Our QuantCache has been accepted by ICCV 2025. 😊
 
 ---
 
